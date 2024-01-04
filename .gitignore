@@ -6,3 +6,7 @@
 .DS_Store
 RACING.xlsx
 RACING_lab.xlsx
+*.xlsx
+*.tiff
+*.ppt*
+Model
